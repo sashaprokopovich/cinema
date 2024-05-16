@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schedule>
+    <day name="Понедельник">
+        <event>
+            <time>09:20-10:401</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>11:00-12:20</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>12:40-13:00</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>13:20-14:40</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+        <event>
+            <time>17:00-18:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>18:20-19:40</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+    </day>
+    <day name="Вторник">
+        <event>
+            <time>11:00-12:20</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>12:40-15:00</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+            <event>
+            <time>15:20-16:40</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+    </day>
+    <day name="Среда">
+        <event>
+            <time>11:00-12:20</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>17:00-18:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>17:00-18:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+    </day>
+    <day name="Четверг">
+        <event>
+            <time>11:00-12:20</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>17:00-18:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>18:40-20:00</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+    </day>
+
+    <day name="Пятница">
+        <event>
+            <time>09:20-10:40</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+        <event>
+            <time>11:00-12:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>12:40-13:00</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+        <event>
+            <time>13:20-14:40</time>
+            <seance>3 сеанса</seance>
+            <zal>2-ой, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>17:00-18:20</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 3-ий, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>17:00-19:00</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 4-ый Залы</zal>
+        </event>
+        <event>
+            <time>18:20-19:40</time>
+            <seance>3 сеанса</seance>
+            <zal>1-ый, 2-ой, 3-ий Залы</zal>
+        </event>
+    </day>
+
+</schedule>

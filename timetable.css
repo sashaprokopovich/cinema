@@ -1,0 +1,68 @@
+body{
+    background-color: #464646;
+}
+
+.schedule {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.day {
+    margin-bottom: 15px;
+    color: #fff;
+}
+
+.event {
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+.time {
+    font-weight: bold;
+    color: #fff;
+    font-size: 14px;
+}
+
+.seance,
+.zal {
+    font-style: italic;
+    color: #fff;
+    font-size: 14px;
+}
+
+
+a{
+    text-decoration: none;
+    color: #ffe100;
+    font-size: 18px;
+}
+
+a:hover{
+    color: #fd7e00;
+}
+
+h1, h2{
+    
+    color: #fff;
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+      font-size: 18px;
+    }
+}
+  
+@media (min-width: 992px) and (max-width: 1199px) {
+    body {
+      font-size: 20px;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+      font-size: 22px;
+    }
+}
